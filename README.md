@@ -1,6 +1,6 @@
 # Vs Code Extension README
 
-This is the README for your extension "bmcextension". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "VSCodeExtension". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
